@@ -1,0 +1,14 @@
+{
+  "name": "discord-ai-bot-yaroslav",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "description": "AI-powered Discord bot by yyaroslav820-source",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.0.0",
+    "dotenv": "^16.0.0"
+  }
+}

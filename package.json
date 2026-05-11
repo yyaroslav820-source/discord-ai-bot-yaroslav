@@ -1,0 +1,23 @@
+{
+  "name": "discord-ai-media-bot",
+  "version": "1.0.0",
+  "description": "Advanced Discord bot with AI image generation, video generation, FFmpeg processing, and custom scripting",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.0",
+    "dotenv": "^16.3.1",
+    "axios": "^1.6.2",
+    "fluent-ffmpeg": "^2.1.2",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "keywords": ["discord", "bot", "ai", "ffmpeg", "image-generation", "video-generation"],
+  "author": "yyaroslav820-source",
+  "license": "MIT"
+}
